@@ -9,6 +9,12 @@
   "author": "barki mustapha",
   "license": "MIT",
   "dependencies": {
-    "electron": "^44.4.5"
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^18.0.3",
+    "electron": "^44.4.5",
+    "openai": "^7.23.0"
   }
 }
