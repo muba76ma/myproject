@@ -1,0 +1,14 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "my electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "barki mustapha",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^44.4.5"
+  }
+}
